@@ -20,6 +20,8 @@ function install_bitcoin() {
   ./autogen.sh
   ./configure
   make -j $(nproc)
+
+  echo 'You can add ./src to PATH to access bitcoin-cli and bitcoind'
 }
 
 install_bitcoin
