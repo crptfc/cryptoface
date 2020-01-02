@@ -1,6 +1,6 @@
 {
   "name": "@crptfc/cryptoface",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/crptfc/cryptoface",
   "repository": "github:crptfc/cryptoface",
   "description": "Internal crypto interface",
