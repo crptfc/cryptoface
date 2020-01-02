@@ -1,2 +1,2 @@
-export { Cryptoface } from './src/cryptoface'
+export { T_cryptoface } from './src/cryptoface'
 

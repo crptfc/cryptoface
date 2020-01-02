@@ -1,6 +1,6 @@
 {
   "name": "@crptfc/cryptoface",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "https://github.com/crptfc/cryptoface",
   "repository": "github:crptfc/cryptoface",
   "description": "Internal crypto interface",
@@ -12,8 +12,7 @@
   "scripts": {
     "test": "npx jest --coverage",
     "build": "npx ts-node build.cli.ts",
-    "release": "npm version patch && npm publish --access public",
-    "build_and_release": "npm run build && cd build && npm run release"
+    "release": "npm version patch && npm publish --access public"
   },
   "author": "Mosteast team",
   "license": "ISC",
