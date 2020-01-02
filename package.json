@@ -1,8 +1,8 @@
 {
-  "name": "cryptoface",
+  "name": "@crptfc/cryptoface",
   "version": "0.0.2",
-  "homepage": "https://github.com/bitffi/cryptoface",
-  "repository": "github:bitffi/cryptoface",
+  "homepage": "https://github.com/crptfc/cryptoface",
+  "repository": "github:crptfc/cryptoface",
   "description": "Internal crypto interface",
   "main": "build/index.js",
   "type": "build/index.d.ts",
